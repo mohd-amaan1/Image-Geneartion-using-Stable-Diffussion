@@ -16,8 +16,7 @@ This project demonstrates **AI-powered image generation** using **Stable Diffusi
 ## 📷 Output Image Example  
 Below is an example of an AI-generated image using a **text prompt**:  
 
-![AI Generated Image](./output_image.jpg)  
-**Prompt:** *"A futuristic cityscape at sunset with neon lights."*  
+![AI Generated Image](./output/ComfyUI_00001_.png)  
 
 ## 🔧 Installation & Setup  
 ### **1️⃣ Prerequisites**  
