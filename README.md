@@ -14,9 +14,12 @@ This project demonstrates **AI-powered image generation** using **Stable Diffusi
 ✅ **Supports NVIDIA CUDA for GPU acceleration**  
 
 ## 📷 Output Image Example  
-Below is an example of an AI-generated image using a **text prompt**:  
+Below are the examples of AI-generated image using a **text prompt**:  
 
 ![AI Generated Image](./output/ComfyUI_00001_.png)  
+![AI Generated Image](./output/ComfyUI_00003_.png)  
+![AI Generated Image](./output/ComfyUI_00005_.png)  
+![AI Generated Image](./output/ComfyUI_00006_.png)  
 
 ## 🔧 Installation & Setup  
 ### **1️⃣ Prerequisites**  
