@@ -1,8 +1,6 @@
 
 # Image Generation using Stable Diffusion & ComfyUI  
 
-![Generated Output](./output_image.jpg)  
-
 ## 📌 Project Overview  
 This project demonstrates **AI-powered image generation** using **Stable Diffusion** with **ComfyUI**, a **node-based graphical interface** for workflow-based AI image generation. The goal is to provide an **interactive and user-friendly environment** for generating high-quality AI-generated images from text prompts.  
 
